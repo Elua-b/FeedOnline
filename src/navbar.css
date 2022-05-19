@@ -1,0 +1,28 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+    left: 170px;
+    height: 60px;
+    background-color: pink;
+    width: 80%;
+    color: white;
+   
+
+}
+ul{
+    padding: 0px 10px;
+}
+li{
+    text-decoration: none;
+    list-style: none;
+    padding: 10px 30px;
+    background-color: rgb(132, 105, 105);
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+p{
+    margin-left: -80px;
+}
